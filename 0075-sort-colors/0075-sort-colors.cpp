@@ -1,14 +1,11 @@
 class Solution {
 public:
-    void swap(vector<int> &arr,int i, int j){
-        int temp = arr[i]; 
-        arr[i] = arr[j];
-        arr[j] = temp;
-    }
-
     void sortColors(vector<int>& nums) {
-        for(int i = 0; i < nums.size() - 1; i++)
-            for(int j = i + 1; j < nums.size(); j++)
-                if(nums[i] > nums[j]) swap(nums, i, j);
+        map<int, int> mp;
+        int i, j, k;
+        for(int i : nums) mp[i]++;
+        for(i = 0; i < mp[0]; i++) nums[i] = 0;
+        for(j = mp[0]; j < i + mp[1]; j++) nums[j] = 1;
+        for(k = i + mp[1]; k < j + mp[2]; k++) nums[k] = 2;
     }
 };
