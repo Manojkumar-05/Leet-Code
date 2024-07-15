@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manojkumar-05/Leet-Code/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/Manojkumar-05/Leet-Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Manojkumar-05/Leet-Code/tree/master/0485-max-consecutive-ones) |
 ## Linked List
 |  |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manojkumar-05/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Manojkumar-05/Leet-Code/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Manojkumar-05/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Manojkumar-05/Leet-Code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
