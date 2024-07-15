@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Manojkumar-05/Leet-Code/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manojkumar-05/Leet-Code/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0136-single-number) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Manojkumar-05/Leet-Code/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Manojkumar-05/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
