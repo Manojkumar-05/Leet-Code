@@ -7,8 +7,6 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize) {
         ans[i] = nums[i];
         ans[i + numsSize] = nums[i];
     }
-    for(int i = 0; i < numsSize * 2; i++)
-        // printf("%d ", ans[i]);
         *returnSize = numsSize * 2;
     return ans;
 }
