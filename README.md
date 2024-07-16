@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Manojkumar-05/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [1580-shuffle-the-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Manojkumar-05/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/Manojkumar-05/Leet-Code/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Manojkumar-05/Leet-Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Manojkumar-05/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/2058-concatenation-of-array) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Manojkumar-05/Leet-Code/tree/master/0073-set-matrix-zeroes) |
+| [1791-richest-customer-wealth](https://github.com/Manojkumar-05/Leet-Code/tree/master/1791-richest-customer-wealth) |
 ## Trie
 |  |
 | ------- |
