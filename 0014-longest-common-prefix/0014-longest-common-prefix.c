@@ -11,7 +11,6 @@ char* longestCommonPrefix(char** strs, int strsSize) {
                 res[i+1] = '\0';
             }
             else {
-                printf("%s", res);
                 if(res[0]) return res;
                 return "";
             }
