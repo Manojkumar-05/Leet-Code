@@ -6,7 +6,10 @@ int* findWordsContaining(char** words, int n, char x, int* rN) {
     int idx = 0;
     for(int i = 0; i < n; i++)
         for(int j = 0; j < strlen(words[i]); j++)
-            if(words[i][j] == x) {arr[idx++] = i;break;} 
+            if(words[i][j] == x){
+                arr[idx++] = i;
+                break;
+            } 
         
     *rN = idx;
     return arr;
