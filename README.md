@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manojkumar-05/Leet-Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Manojkumar-05/Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/Manojkumar-05/Leet-Code/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Manojkumar-05/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Manojkumar-05/Leet-Code/tree/master/1791-richest-customer-wealth) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/Manojkumar-05/Leet-Code/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Manojkumar-05/Leet-Code/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
