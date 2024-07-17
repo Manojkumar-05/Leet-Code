@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Manojkumar-05/Leet-Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manojkumar-05/Leet-Code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Manojkumar-05/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Manojkumar-05/Leet-Code/tree/master/0792-binary-search) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Manojkumar-05/Leet-Code/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Manojkumar-05/Leet-Code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Manojkumar-05/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Manojkumar-05/Leet-Code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Manojkumar-05/Leet-Code/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Manojkumar-05/Leet-Code/tree/master/0792-binary-search) |
 ## Hash Table
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
