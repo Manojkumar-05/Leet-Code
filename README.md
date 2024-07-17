@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Manojkumar-05/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/Manojkumar-05/Leet-Code/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/Manojkumar-05/Leet-Code/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Manojkumar-05/Leet-Code/tree/master/1635-number-of-good-pairs) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Manojkumar-05/Leet-Code/tree/master/0645-set-mismatch) |
 | [1635-number-of-good-pairs](https://github.com/Manojkumar-05/Leet-Code/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -134,12 +136,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Manojkumar-05/Leet-Code/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Manojkumar-05/Leet-Code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Manojkumar-05/Leet-Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Manojkumar-05/Leet-Code/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
