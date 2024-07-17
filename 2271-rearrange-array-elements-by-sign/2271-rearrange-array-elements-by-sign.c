@@ -18,7 +18,6 @@ int* rearrangeArray(int* arr, int n, int* rS) {
     for(int i = 0; i < n/2; i++){
         ans[idx++] = arr1[i];
         ans[idx++] = arr2[i];
-        // printf("%d %d\n", arr1[i], arr2[i]);
     }
     *rS = n;
     return ans;
