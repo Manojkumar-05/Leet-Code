@@ -7,7 +7,6 @@ public:
         int s = 1, e = n-2;
         while(s <= e){
                 int m = s + (e-s)/2;
-                cout << "m = " << m << endl;
                 if(a[m] != a[m-1] && a[m] != a[m+1]) return a[m];
                 else if((m%2 == 1 && a[m] == a[m-1]) ||
                        (m%2 == 0 && a[m] == a[m+1])   
