@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Manojkumar-05/Leet-Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Manojkumar-05/Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Manojkumar-05/Leet-Code/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Manojkumar-05/Leet-Code/tree/master/1635-number-of-good-pairs) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Manojkumar-05/Leet-Code/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Manojkumar-05/Leet-Code/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
