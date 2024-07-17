@@ -8,7 +8,8 @@ void swap(int *arr,int i,int j){
 }
 int* rearrangeArray(int* arr, int n, int* rS) {
     int *ans = (int*)malloc(n*sizeof(int)); 
-    int arr1[n/2], arr2[n/2];
+    int *arr1 = (int*)malloc((n/2)*sizeof(int));
+    int *arr2 = (int*)malloc((n/2)*sizeof(int));
     int id1 = 0, id2 = 0;
     for(int i = 0; i < n; i++) {
         if(arr[i] > 0) arr1[id1++] = arr[i];
@@ -20,5 +21,7 @@ int* rearrangeArray(int* arr, int n, int* rS) {
         ans[idx++] = arr2[i];
     }
     *rS = n;
+    free(arr1);
+    free(arr2);
     return ans;
 }
