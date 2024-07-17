@@ -1,11 +1,6 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
-void swap(int *arr,int i,int j){
-    int temp = arr[i];
-    arr[i] = arr[j];
-    arr[j] = temp;
-}
 int* rearrangeArray(int* arr, int n, int* rS) {
     int *ans = (int*)malloc(n*sizeof(int)); 
     int *arr1 = (int*)malloc((n/2)*sizeof(int));
