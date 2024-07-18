@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Manojkumar-05/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Manojkumar-05/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Manojkumar-05/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Manojkumar-05/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Manojkumar-05/Leet-Code/tree/master/3194-find-words-containing-character) |
 ## Queue
@@ -186,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Manojkumar-05/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manojkumar-05/Leet-Code/tree/master/2271-rearrange-array-elements-by-sign) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Manojkumar-05/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
