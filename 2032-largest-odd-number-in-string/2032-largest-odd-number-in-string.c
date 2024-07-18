@@ -6,14 +6,12 @@ int isOdd(char n){
 }
 char* largestOddNumber(char* s) {
     int n = strlen(s);
-    printf("%d",n);
-    int st, en, j = 0;
+    int  en, j = 0;
     if(isOdd(s[n-1])) return s;
     // for(st = 0; st < n; st++) if(isOdd(s[st])) break;
     for(en = n; en >= 0; en--) if(isOdd(s[en])) break;
-    if(st==n)return "";
-    printf("%d, %d, %d", n, st, en);
-    char* ans = (char*)malloc(en - st + 2);
+    // printf("%d, %d, %d", n, st, en);
+    char* ans = (char*)malloc(en + 2);
     for(int i = 0; i <= en; i++,j++) ans[j]=s[i];
     ans[j] = '\0';
     return ans;
