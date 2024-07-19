@@ -3,16 +3,10 @@
  */
 int* rearrangeArray(int* arr, int n, int* rS) {
     int *ans = (int*)malloc(n*sizeof(int)); 
-    int arr1[n/2], arr2[n/2];
-    int id1 = 0, id2 = 0;
+    int id1 = 0, id2 = 1;
     for(int i = 0; i < n; i++) {
-        if(arr[i] > 0) arr1[id1++] = arr[i];
-        else arr2[id2++] = arr[i];
-    }
-    int idx = 0;
-    for(int i = 0; i < n/2; i++){
-        ans[idx++] = arr1[i];
-        ans[idx++] = arr2[i];
+        if(arr[i] > 0){ ans[id1] = arr[i]; id1+=2; }
+        else { ans[id2] = arr[i]; id2+=2; }
     }
     *rS = n;
     return ans;
