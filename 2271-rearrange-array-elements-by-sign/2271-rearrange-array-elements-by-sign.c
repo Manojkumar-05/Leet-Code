@@ -7,7 +7,7 @@ int* rearrangeArray(int* arr, int n, int* rS) {
     int id1 = 0, id2 = 0;
     for(int i = 0; i < n; i++) {
         if(arr[i] > 0) arr1[id1++] = arr[i];
-        if(arr[i] < 0) arr2[id2++] = arr[i];
+        else arr2[id2++] = arr[i];
     }
     int idx = 0;
     for(int i = 0; i < n/2; i++){
