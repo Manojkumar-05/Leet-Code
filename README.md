@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/Manojkumar-05/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Manojkumar-05/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Manojkumar-05/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Manojkumar-05/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manojkumar-05/Leet-Code/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Manojkumar-05/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Manojkumar-05/Leet-Code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
