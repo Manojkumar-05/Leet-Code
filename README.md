@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Manojkumar-05/Leet-Code/tree/master/0412-fizz-buzz) |
+| [0812-rotate-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Manojkumar-05/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Manojkumar-05/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -206,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
