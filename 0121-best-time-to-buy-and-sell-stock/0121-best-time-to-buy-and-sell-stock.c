@@ -3,8 +3,7 @@ int maxProfit(int* arr, int n) {
 
     for(int i = 1; i < n; i++){
         if(min > arr[i]) min = arr[i];
-        temp = arr[i] - min;
-        if(temp > max) max = arr[i] - min;
+        if((arr[i] - min) > max) max = arr[i] - min;
     }
     return max;
 }
