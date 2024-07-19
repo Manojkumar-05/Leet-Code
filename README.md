@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/Manojkumar-05/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Manojkumar-05/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manojkumar-05/Leet-Code/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Manojkumar-05/Leet-Code/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/Manojkumar-05/Leet-Code/tree/master/2502-sort-the-people) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Manojkumar-05/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Manojkumar-05/Leet-Code/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Manojkumar-05/Leet-Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Manojkumar-05/Leet-Code/tree/master/0645-set-mismatch) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/Manojkumar-05/Leet-Code/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
 |  |
