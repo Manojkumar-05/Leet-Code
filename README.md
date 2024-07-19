@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Manojkumar-05/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Manojkumar-05/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Manojkumar-05/Leet-Code/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Manojkumar-05/Leet-Code/tree/master/0412-fizz-buzz) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Manojkumar-05/Leet-Code/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Manojkumar-05/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Manojkumar-05/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Manojkumar-05/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Manojkumar-05/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Manojkumar-05/Leet-Code/tree/master/0169-majority-element) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Manojkumar-05/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Manojkumar-05/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Manojkumar-05/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Manojkumar-05/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Manojkumar-05/Leet-Code/tree/master/0058-length-of-last-word) |
