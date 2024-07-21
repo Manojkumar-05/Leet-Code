@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Manojkumar-05/Leet-Code/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Manojkumar-05/Leet-Code/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manojkumar-05/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Manojkumar-05/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Manojkumar-05/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manojkumar-05/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manojkumar-05/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -235,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manojkumar-05/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
