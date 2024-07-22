@@ -14,7 +14,6 @@ public:
         if(!head || !head->next) return head;
         ListNode* odd = head, *even = head->next, *evenHead = even;
         while(odd && odd->next && even && even->next) {
-            cout << odd->val << " ";
             odd->next = even->next;
             odd = odd->next;
             even->next = odd->next;
