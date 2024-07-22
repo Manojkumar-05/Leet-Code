@@ -10,22 +10,18 @@
  */
 class Solution {
 public:
-    bool isPali(vector<int> &arr){
-        int s = 0, e = arr.size() - 1;
-        while(s < e) {
-            if(arr[s] != arr[e]) return false;
-            s++; e--;
-        }
-        return true;
-    }
     bool isPalindrome(ListNode* head) {
+        stack<int> st;
         ListNode* temp = head;
-        vector<int> arr;
         while(temp){
-            arr.push_back(temp->val);
+            st.push(temp->val);
             temp = temp->next;
         }
-        for(int i = 0; i < arr.size(); i++) cout << arr[i] << " ";
-        return isPali(arr);
+        temp = head;
+        while(temp && temp->val == st.top()){
+            temp = temp->next;
+            st.pop();
+         }
+         return temp == nullptr;
     }
 };
