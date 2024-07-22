@@ -7,10 +7,10 @@ int digiSqSum(int n){
     return sum;
 }
 bool isHappy(int n) {
-    if(n == 1) return true;
+    if(n == 1 || n == 7) return true;
     while(n > 9){
         n = digiSqSum(n);
-        if(n == 1) return true;
+        if(n == 1 || n == 7) return true;
     }    
-    return n == 7;
+    return false;
 }
