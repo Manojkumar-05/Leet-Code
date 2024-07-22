@@ -15,7 +15,8 @@ public:
         while(temp && temp->next){
             if(temp->val == temp->next->val){
                 prev = temp;
-                while(temp && temp->next && temp->val == temp->next->val) temp = temp->next;
+                while(temp && temp->next && temp->val == temp->next->val) 
+                    temp = temp->next;
                 prev->next = temp->next;
             }
             temp = temp->next; 
