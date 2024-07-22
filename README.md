@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/Manojkumar-05/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Manojkumar-05/Leet-Code/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Manojkumar-05/Leet-Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1899-count-items-matching-a-rule](https://github.com/Manojkumar-05/Leet-Code/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/Manojkumar-05/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Manojkumar-05/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Manojkumar-05/Leet-Code/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Manojkumar-05/Leet-Code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1899-count-items-matching-a-rule](https://github.com/Manojkumar-05/Leet-Code/tree/master/1899-count-items-matching-a-rule) |
 | [2032-largest-odd-number-in-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Manojkumar-05/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/Manojkumar-05/Leet-Code/tree/master/2502-sort-the-people) |
