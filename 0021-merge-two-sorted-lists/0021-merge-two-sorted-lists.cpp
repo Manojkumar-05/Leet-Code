@@ -13,9 +13,9 @@ public:
     ListNode* mergeTwoLists(ListNode* L1, ListNode* L2) {
         ListNode dummy;
         ListNode *temp = &dummy;
-        if(!L1 && !L2) return NULL;
-        if(!L1) return L2;
-        if(!L2) return L1;
+        // if(!L1 && !L2) return NULL;
+        // if(!L1) return L2;
+        // if(!L2) return L1;
 
         while(L1 && L2){
             if(L1->val > L2->val){
