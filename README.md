@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Manojkumar-05/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manojkumar-05/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1585-the-kth-factor-of-n](https://github.com/Manojkumar-05/Leet-Code/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/Manojkumar-05/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Manojkumar-05/Leet-Code/tree/master/2032-largest-odd-number-in-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Manojkumar-05/Leet-Code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -289,4 +290,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Manojkumar-05/Leet-Code/tree/master/0724-find-pivot-index) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Manojkumar-05/Leet-Code/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
