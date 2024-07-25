@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Manojkumar-05/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manojkumar-05/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Manojkumar-05/Leet-Code/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Manojkumar-05/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Manojkumar-05/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Manojkumar-05/Leet-Code/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manojkumar-05/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manojkumar-05/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Manojkumar-05/Leet-Code/tree/master/1635-number-of-good-pairs) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Manojkumar-05/Leet-Code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Manojkumar-05/Leet-Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Manojkumar-05/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Manojkumar-05/Leet-Code/tree/master/0645-set-mismatch) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/Manojkumar-05/Leet-Code/tree/master/2502-sort-the-people) |
