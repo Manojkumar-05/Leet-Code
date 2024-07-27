@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1580-shuffle-the-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manojkumar-05/Leet-Code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/Manojkumar-05/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/Manojkumar-05/Leet-Code/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Manojkumar-05/Leet-Code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/Manojkumar-05/Leet-Code/tree/master/1899-count-items-matching-a-rule) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Manojkumar-05/Leet-Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manojkumar-05/Leet-Code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manojkumar-05/Leet-Code/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/1646-kth-missing-positive-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
