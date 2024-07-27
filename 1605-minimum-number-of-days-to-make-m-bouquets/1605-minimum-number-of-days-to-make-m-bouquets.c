@@ -15,7 +15,7 @@ bool possible(int *arr, int n, int day, int m, int k){
             if(arr[i] <= day){
                 count++;
                 if(count == k) {
-                    bokehCounter ++;
+                    bokehCounter++;
                     count = 0;
                 }
             }else count = 0;
