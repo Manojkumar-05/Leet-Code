@@ -8,6 +8,7 @@ public:
             if(arr[mid] - (mid + 1) < k) start = mid + 1;
             else end = mid - 1;
         }
+        // return arr[end] + (k - (arr[end] - (end + 1)));
         return k + end + 1;
     }
 };
