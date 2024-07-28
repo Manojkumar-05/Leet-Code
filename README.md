@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Manojkumar-05/Leet-Code/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Manojkumar-05/Leet-Code/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Manojkumar-05/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Manojkumar-05/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manojkumar-05/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Manojkumar-05/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Manojkumar-05/Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Manojkumar-05/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Manojkumar-05/Leet-Code/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Manojkumar-05/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Manojkumar-05/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Manojkumar-05/Leet-Code/tree/master/0645-set-mismatch) |
