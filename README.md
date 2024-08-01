@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/Manojkumar-05/Leet-Code/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Manojkumar-05/Leet-Code/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/Manojkumar-05/Leet-Code/tree/master/1293-three-consecutive-odds) |
+| [1319-unique-number-of-occurrences](https://github.com/Manojkumar-05/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manojkumar-05/Leet-Code/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Manojkumar-05/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1580-shuffle-the-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/1580-shuffle-the-array) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manojkumar-05/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Manojkumar-05/Leet-Code/tree/master/0645-set-mismatch) |
+| [1319-unique-number-of-occurrences](https://github.com/Manojkumar-05/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Manojkumar-05/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/Manojkumar-05/Leet-Code/tree/master/2502-sort-the-people) |
 ## String
