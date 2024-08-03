@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Manojkumar-05/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Manojkumar-05/Leet-Code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Manojkumar-05/Leet-Code/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Manojkumar-05/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Manojkumar-05/Leet-Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Manojkumar-05/Leet-Code/tree/master/0202-happy-number) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Manojkumar-05/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Manojkumar-05/Leet-Code/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Manojkumar-05/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/Manojkumar-05/Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Manojkumar-05/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Manojkumar-05/Leet-Code/tree/master/0231-power-of-two) |
