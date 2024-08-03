@@ -16,9 +16,9 @@ public:
         ans.push_back(arr);
         vector<int> next = nextPer(arr, n);
 
-            while(find(ans.begin(), ans.end(), next) == ans.end()){
-                ans.push_back(next);
-                next = nextPer(arr, n);
+        while(find(ans.begin(), ans.end(), next) == ans.end()){
+            ans.push_back(next);
+            next = nextPer(arr, n);
         
         }
         return ans;
