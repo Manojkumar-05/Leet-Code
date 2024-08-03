@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-unique-number-of-occurrences](https://github.com/Manojkumar-05/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/Manojkumar-05/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/Manojkumar-05/Leet-Code/tree/master/2502-sort-the-people) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Manojkumar-05/Leet-Code/tree/master/3412-permutation-difference-between-two-strings) |
 ## String
 |  |
 | ------- |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Manojkumar-05/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/Manojkumar-05/Leet-Code/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/Manojkumar-05/Leet-Code/tree/master/3194-find-words-containing-character) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Manojkumar-05/Leet-Code/tree/master/3412-permutation-difference-between-two-strings) |
 ## Queue
 |  |
 | ------- |
