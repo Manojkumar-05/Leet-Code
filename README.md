@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manojkumar-05/Leet-Code/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Manojkumar-05/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Manojkumar-05/Leet-Code/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Manojkumar-05/Leet-Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Manojkumar-05/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Manojkumar-05/Leet-Code/tree/master/0054-spiral-matrix) |
@@ -328,4 +329,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Manojkumar-05/Leet-Code/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Manojkumar-05/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Manojkumar-05/Leet-Code/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
